@@ -40,17 +40,7 @@ We want to make a wallet-to-wallet instant messanger similar to `scan.blockscan.
 * Tech: React
 * budget: `5k` from `gitcoin`
 
-## 3- Donation 
-* Smart contracts
-  * ChainLineToken.sol
-  * TokenVesting.sol
-  * Donation.sol
-* Front-end
-  * Donation page
-  * Claim page
-* Budget: `10k`
-
-## 4- NFTs & marketplace
+## 3- NFTs & marketplace
 * Smart contracts
   * NFT & Mystery Box contracts
   * Marketplace contract
@@ -58,7 +48,7 @@ We want to make a wallet-to-wallet instant messanger similar to `scan.blockscan.
   * Marketplace page
 * Budget: `25k`
 
-## 5- Avatar Designing
+## 4- Avatar Designing
 Similar to CryptoKitties，combine element layers into one puppy avatar.
 
 8 Traits:
@@ -80,5 +70,5 @@ Image format: `SVG`
 Refer to [CryptoKitties](https://github.com/achadha235/cryptokitty-designer/tree/master/src/cattributes), `svg` layer combination.
 
 
-## 6- xxnetwork interfaces
+## 5- xxnetwork interfaces
 TODO
