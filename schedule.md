@@ -72,3 +72,14 @@ Refer to [CryptoKitties](https://github.com/achadha235/cryptokitty-designer/tree
 
 ## 5- xxnetwork interfaces
 TODO
+
+# Budget
+## NFT Art
+USD 1000 Fixed: https://www.fiverr.com/v4/users/jackygu/orders/611446645/activities
+
+
+## NFT mint/marketplace & Landing page
+USD 3000
+
+## Chat Dapp
+USD 5000
