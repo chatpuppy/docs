@@ -1,20 +1,16 @@
 # Website UI & key elements
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gyyciozmt6j30u023u0xn.jpg)
 ### 1- Slogon
-* A super safe wallet-to-wallet instant messanger dapp for web3
-
-* Safer in Cyberspace
+* A super secured NFT-based wallet-to-wallet instant messanger dapp for web3
 
 ### 2- Feature
-* Gateways of messaging are fully decentralized, each message is crypted, mixed, and throught random gateways all over the world. 
-* No need regist or login by email, phone number. A blockchain account will connect all the world.
-* No servers, AI, companies or goverments can see the messages, inercept the  messages, save the messages, anylize the messages, modify the messages or delete the messages.
-* Quantum secured encrypt algorithm protect your messages safe in the future.
-* Sending or recieving messages over different blockchains, cross-chain messaging.
+See whitepaper
 
 ### 3- Social
 * Discord
 * Telegram
 * Github
+* Whitepaper
 
 ### 4- Thanks
 * xx.network
@@ -30,17 +26,11 @@ TODO
 
 # Team, todo-list and budget
 ## 1- DApp development
-* UI: 
-  * http://bootstrap.gallery/ichat/light-version/index.html#
-  * http://bootstrap.gallery/ichat/landing/index.html
-* Phase
-  * #1: using Gun for privacy protection messaging
-  * #2: using xxnetwork as messaging infrastructure.
-* Technical requirements:
-  * Good experience of web based instant messenger dapp.
-  * React
-  * Web3.js & moralis
-  * gun db
+We want to make a wallet-to-wallet instant messanger similar to `scan.blockscan.com`, but something different:
+* Using `gunDB` as decentralized database. Refer to `https://gun.eco/`, and `https://github.com/fireship-io/gun-chat`.
+* Using `react/moralis` as web3 library.
+* Support mult-chain(Ethereum, BSC, Polygon etc.)
+* Using Material UI(mui) will be great, refer to: http://bootstrap.gallery/ichat/landing/index.html
 * budget: `20k-25k` from `gitcoin`
 
 ## 2- Landing website
@@ -69,7 +59,26 @@ TODO
 * Budget: `25k`
 
 ## 5- Avatar Designing
+Similar to CryptoKitties，combine element layers into one puppy avatar.
+
+8 Traits:
+* Eye
+* Ear
+* Nose
+* Mouth
+* Tail
+* Caps
+* Cloths & Tie
+* Pattern
+
+Variations: Each Traits has 5 variations.
+
+Totally 5 ^ 8 = 390k
+
+Image format: `SVG`
+
 Refer to [CryptoKitties](https://github.com/achadha235/cryptokitty-designer/tree/master/src/cattributes), `svg` layer combination.
+
 
 ## 6- xxnetwork interfaces
 TODO
