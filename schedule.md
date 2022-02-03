@@ -79,7 +79,7 @@ USD 1000 Fixed: https://www.fiverr.com/v4/users/jackygu/orders/611446645/activit
 
 
 ## NFT mint/marketplace & Landing page
-USD 3000
+USD 6000-8000
 
 ## Chat Dapp
 USD 5000

@@ -10,3 +10,6 @@
 * https://www.nft-stats.com/collection/fastfooddoge
 * https://www.nft-stats.com/collection/cryptorayrays-collection
 * https://nft.doge-punks.io/
+
+## Feb.3
+* Make a bouty for mint/marketplace front pages on gitcoin.
