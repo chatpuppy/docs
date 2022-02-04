@@ -46,7 +46,7 @@ https://github.com/amand33p/les-chat
 * User can set buddyname for the buddy account, but this buddyname can be only seen by the user himself.
 
 ### 2- Database $ 1500
-* Change database to decentralized database from centralized db like MongoDB or redis. Suggest to use `gunDB`, `obitdb`.
+* Change database to decentralized database from centralized db like MongoDB or redis. Suggest to use `gunDB`, `orbitdb`.
 
 Refer to [a gunDB Chat app](https://github.com/fireship-io/gun-chat)
 
