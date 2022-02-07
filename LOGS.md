@@ -34,46 +34,18 @@ https://github.com/yinxin630/fiora 尝试部署
 
 https://github.com/amand33p/les-chat
 
-----------------------------------------------------------------
+## Feb.5
+* Re-make a bounty for chat dapp. https://github.com/chatpuppy/chat_client/issues/2
+* Candidate:
+  * Homayoun(hhio618): 已开始启动sec#1, approved
+  * Eward: 熟悉moralis, 已开始启动sec#1, approved
+  * cyber: 
 
-# 新方案：
-## Folk https://github.com/yinxin630/fiora
-## Make change: 
-### 1- User and account $ 1500
-* Change the way of login to metamask signature. No register, password etc.
-* User avatar image is choosed from `NFTs` in the user's blockchain account. If there is no `NFT` in the user's account, use the 2nd two characters of the account address or username(if has) as avatar. If there are more than one `NFT`, choosed one by user.
-* User can set/change username, then the account address will not shown directly.
-* User can set buddyname for the buddy account, but this buddyname can be only seen by the user himself.
+## Feb.6
+* Write smart contracts script for frontend programming
+* Add MEE6 to discord group manager
 
-### 2- Database $ 1500
-* Change database to decentralized database from centralized db like MongoDB or redis. Suggest to use `gunDB`, `orbitdb`.
-
-Refer to [a gunDB Chat app](https://github.com/fireship-io/gun-chat)
-
-### 3- functionalities $ 1500
-* Searching user by blockchain address.
-* `Like`, `Reply`, `Edit`, `Delete` message functionalities like discord.
-* Limitation to `non-NFT` user.(See whitepaper)
-* `/` functionalities
-  * /transfer toAddress tokenAddress amount
-  * /balanceOf tokenAddress amount
-  * more ERC20, ERC721, ERC1155 standard methods
-
-We can get technical support from the guy who wrote the `fiora` repo.
-
-----------------------------------------------------------------
-
-任务分拆，每个点单独计费。
+## Feb.7
+* Review all smart contracts and update.
 
 
-* 改登录方式为`metamask`,去掉注册，密码设置，密码修改等传统登录方式
-* 头像从账户中获取`NFT`,去掉现有的自定义头像功能。如果没有NFT，则使用用户名/账户字母
-* 用户可以为自己的账户设置用户名，并保存在gunDB中
-* 用户可以为好友设置备注名
-* 搜索功能增加搜索链上的`Address`
-* 数据库改为`gunDB`
-* 增加对`非NFT`用户限制
-* 多语言支持
-
-================================================================
-Make `fiora` multilanguage supported, and issue a bounty.
