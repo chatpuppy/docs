@@ -1,6 +1,8 @@
 网址：https://chatpuppy.com/donate
 
 ## 社区轮测试
+### 测试前准备好足够的BNB测试币
+
 ### 进入方式见下图：
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h18jd1d5itj20xc0gwwf1.jpg)
 
@@ -51,3 +53,11 @@
 4- 提现的周期是否准确？
 5- 用户体验是否合理？
 
+### 测试地址：
+0xaD5f816b5FA499BF8b0EA15d1fBb82971d572800
+0x59b2AdE3d6917b1fA8C5feD3e585984306b06b21
+0x164a782680C518408497AedFBb05b1BfDe5e1d98
+0x29E095dfef789B073CbE30ed9DCEeFA2F4ce72EC
+0x47E2514D1acc6613cceF861541Bf1bBCE4eA2720
+0x3B3d415EE2453F86750b4dDFA0930EEC9d95795f
+0x615b80388E3D3CaC6AA3a904803acfE7939f0399
